@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Homework-Encopsulation\Homework-Encopsulation\bin\Debug\net6.0\Homework-Encopsulation.exe
+C:\Users\HP\Desktop\Homework-Encopsulation\Homework-Encopsulation\bin\Debug\net6.0\Homework-Encopsulation.deps.json
+C:\Users\HP\Desktop\Homework-Encopsulation\Homework-Encopsulation\bin\Debug\net6.0\Homework-Encopsulation.runtimeconfig.json
+C:\Users\HP\Desktop\Homework-Encopsulation\Homework-Encopsulation\bin\Debug\net6.0\Homework-Encopsulation.dll
+C:\Users\HP\Desktop\Homework-Encopsulation\Homework-Encopsulation\bin\Debug\net6.0\Homework-Encopsulation.pdb
+C:\Users\HP\Desktop\Homework-Encopsulation\Homework-Encopsulation\obj\Debug\net6.0\Homework-Encopsulation.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Homework-Encopsulation\Homework-Encopsulation\obj\Debug\net6.0\Homework-Encopsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Homework-Encopsulation\Homework-Encopsulation\obj\Debug\net6.0\Homework-Encopsulation.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Homework-Encopsulation\Homework-Encopsulation\obj\Debug\net6.0\Homework-Encopsulation.AssemblyInfo.cs
+C:\Users\HP\Desktop\Homework-Encopsulation\Homework-Encopsulation\obj\Debug\net6.0\Homework-Encopsulation.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Homework-Encopsulation\Homework-Encopsulation\obj\Debug\net6.0\Homework-Encopsulation.dll
+C:\Users\HP\Desktop\Homework-Encopsulation\Homework-Encopsulation\obj\Debug\net6.0\refint\Homework-Encopsulation.dll
+C:\Users\HP\Desktop\Homework-Encopsulation\Homework-Encopsulation\obj\Debug\net6.0\Homework-Encopsulation.pdb
+C:\Users\HP\Desktop\Homework-Encopsulation\Homework-Encopsulation\obj\Debug\net6.0\Homework-Encopsulation.genruntimeconfig.cache
+C:\Users\HP\Desktop\Homework-Encopsulation\Homework-Encopsulation\obj\Debug\net6.0\ref\Homework-Encopsulation.dll
